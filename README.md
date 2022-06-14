@@ -4,4 +4,4 @@
 
 1. Hi It's a new branch
 
-2.my first commit
+2.my first commit 3. checking diff --staged
